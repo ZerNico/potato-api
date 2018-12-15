@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_STRING": "",
+    "BUILDS_FOLDER": "builds",
+    "DEVICES_FOLDER": "devices",
+    "POSTS_FOLDER": "posts",
+    "JWT_SECRET": "dev"
+  }
+}
